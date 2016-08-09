@@ -31,7 +31,7 @@ Search engine with convenient widgets and complex ranking, built in Ruby and Sin
 **My biggest contribution:** Displaying and ranking search results, and adding additional ranking on top of this to ensure quality results appeared first.
 
 ### :pear: Pear
-###### Group Project | [GitHub](https://github.com/joestephens/varys) | [Heroku](http://www.heroku.com)
+###### Group Project | [GitHub](https://github.com/joestephens/varys) | [Heroku](http://findapear.herokuapp.com)
 Tinder-esque web application for coders to find other coders to work on projects with, built in Rails.
 
 **My biggest contribution:** Implementing JSON requests into the controller, and making AJAX GET and POST requests to the controller from the view.
