@@ -7,7 +7,7 @@
 
 I would describe myself as effervescent, friendly, enthusiastic and spontaneous, but if you needed further convincing, I've asked the Chief Joy Officer at [Makers Academy](http://www.makersacademy.com/) how they would describe me:
 
-> "A true enigma :crystal_ball:. The eighth wonder of the world :earth_africa:." - [Dana Svoboda](https://uk.linkedin.com/in/chiefjoyofficer)
+> "An enigma :crystal_ball:. The eighth wonder of the world :earth_africa:." - [Dana Svoboda](https://uk.linkedin.com/in/chiefjoyofficer)
 
 I've recently graduated from Makers Academy. 16 weeks earlier, I embarked on a journey to learn how to learn to code. This wasn't my first foray into coding - prior to University, I dabbled with PHP as a hobby. Now - in retrospect - I see how easy it was to learn something the wrong way. Makers has taught me how to approach learning in a different way, igniting a passion inside of me to write code that is test-driven, object-oriented, and clean. 
 
