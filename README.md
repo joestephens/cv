@@ -25,7 +25,7 @@ I'm always smiling, have a great sense of humour and make it my mission to raise
 
 ## <a name="projects">Projects I'm proud of</a>
 ### :mag: Varys
-###### Group Project | [GitHub](https://github.com/joestephens/varys) | [Heroku](http://www.heroku.com)
+###### Group Project | [GitHub](https://github.com/joestephens/varys)
 Search engine with convenient widgets and complex ranking, built in Ruby and Sinatra.
 
 **My biggest contribution:** Displaying and ranking search results, and adding additional ranking on top of this to ensure quality results appeared first.
