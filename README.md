@@ -24,6 +24,10 @@ I believe it's important that everybody in my team is able to keep up, as it mea
 I'm always smiling, have a great sense of humour and make it my mission to raise the spirits of those around me. I will put aside everything I'm doing to help others, and always think of myself as approachable. When working in a team, I'm willing to compromise on decisions in order to find a happy medium and maintain team unity.
 
 ## <a name="projects">Projects I'm proud of</a>
+### :radio: Radiocruncher
+###### Solo Project | [View Website](https://www.radiocruncher.com)
+A website I'm building for my Dad's vintage radio restoration business. Features an e-commerce store built on top of Solidus. The whole website has been built with a mobile-first approach.
+
 ### :mag: Varys
 ###### Group Project | [GitHub](https://github.com/joestephens/varys) | [Heroku](http://varyssearch.herokuapp.com)
 Search engine with convenient widgets and complex ranking, built in Ruby and Sinatra.
@@ -41,6 +45,8 @@ Tinder-esque web application for coders to find other coders to work on projects
 A web crawler that populates the database for the Varys search engine, built in Python.
 
 ## <a name="work">Experience</a>
+
+**Junior Web Developer** - **Karma** (_September 2016 to Present_)
 
 **Payroll Officer** - **National Health Service (NHS)** (_November 2013 to April 2016_)
 
