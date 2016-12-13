@@ -9,7 +9,7 @@ I would describe myself as effervescent, friendly, enthusiastic and spontaneous,
 
 > "An enigma :crystal_ball:. The eighth wonder of the world :earth_africa:." - [Dana Svoboda](https://uk.linkedin.com/in/chiefjoyofficer)
 
-I've recently graduated from Makers Academy. 16 weeks earlier, I embarked on a journey to learn how to learn to code. This wasn't my first foray into coding - prior to University, I dabbled with PHP as a hobby. Now - in retrospect - I see how easy it was to learn something the wrong way. Makers has taught me how to approach learning in a different way, igniting a passion inside of me to write code that is test-driven, object-oriented, and clean. 
+I've recently graduated from Makers Academy. 16 weeks earlier, I embarked on a journey to learn how to learn to code. This wasn't my first foray into coding - prior to University, I dabbled with PHP as a hobby. Now - in retrospect - I see how easy it was to learn something the wrong way. Makers has taught me how to approach learning in a different way, igniting a passion inside of me to write code that is test-driven, object-oriented, and clean.
 
 I'm looking for a role where I can continue to learn (and be challenged), and where I have the support network available to me so that I can continue to prosper in my journey towards becoming a great developer.
 
@@ -47,6 +47,11 @@ A web crawler that populates the database for the Varys search engine, built in 
 ## <a name="work">Experience</a>
 
 **Junior Web Developer** - **Karma** (_September 2016 to Present_)
+* Using PHP, JavaScript (Node, Meteor, React, jQuery) to develop and maintain internal systems, and writing SQL queries to query internal databases.
+* Building scalable live video streaming micro-sites for high-profile clients using JavaScript, HTML and CSS - utilising NoSQL databases for increased performance.
+* Interacting with external ReSTful APIs to streamline business processes.
+* Maintaining Linux servers through Google Cloud Platform and SSH.
+* Managing the company's Wordpress and administering new content.
 
 **Payroll Officer** - **National Health Service (NHS)** (_November 2013 to April 2016_)
 
